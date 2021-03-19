@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/res/img">
+        <file>res/img/SettingsIcon.png</file>
+    </qresource>
+</RCC>
